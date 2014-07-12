@@ -1,0 +1,1 @@
+/usr/bin/c++   -g -Wall -g    CMakeFiles/borrar.dir/src/main.cpp.o  -o ../bin/borrar -rdynamic -lIrrlicht 
